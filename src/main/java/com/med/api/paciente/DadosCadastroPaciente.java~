@@ -1,0 +1,4 @@
+package com.med.api.paciente;
+
+public record DadosCadastroPaciente() {
+}
